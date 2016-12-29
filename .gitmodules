@@ -1,0 +1,9 @@
+[submodule "unary_codding"]
+	path = unary_codding
+	url = https://github.com/xunto-herzen-ivt4/unary_codding
+[submodule "base_numeral_system"]
+	path = base_numeral_system
+	url = https://github.com/xunto-herzen-ivt4/base_numeral_system
+[submodule "haffman_codding"]
+	path = haffman_codding
+	url = https://github.com/xunto-herzen-ivt4/haffman_codding
